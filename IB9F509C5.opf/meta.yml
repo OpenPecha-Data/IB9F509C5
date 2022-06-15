@@ -1,0 +1,30 @@
+id: IB9F509C5
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:47:49.593100'
+last_modified: '2022-06-15T20:47:49.593105'
+parser: null
+source_metadata:
+  title: Astrology Series
+  language: pt
+  description: 'Texts related to astrology (skar rtsis), one of the five minor sciences
+    or fields of knowledge:'
+  volume:
+    f6366:
+      title: The ‘Chinese’ Practice of Averting Periodic Obstacles
+      base_file: f6366.txt
+      order: 1
+      parent: Averting Obstacles
+    fF079:
+      title: A Brief Version of the 'Chinese' Practice of Averting Periodic Obstacles
+      base_file: fF079.txt
+      order: 2
+      parent: Averting Obstacles
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
